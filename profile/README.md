@@ -7,4 +7,6 @@
     <br> <br>
     <img src="https://www.rfsocbook.com/wp-content/uploads/2022/12/RFSoC3D_v4-1433x1536.png" alt="oscthumb" style="width: 30%" border="0"/>
     <br>
+    <font size=4><a href="https://github.com/strath-sdr/RFSoC-Book">RFSoC Book GitHub Repository</a>
+    <br>
 </p>
